@@ -89,7 +89,7 @@ header {
 #submit {
   background-color: black;
   border-radius: 4px;
-  color: white;
+  color: hsl(42, 61%, 86%);
   font-size: 1em;
   height: 40px;
   width: 96px;
